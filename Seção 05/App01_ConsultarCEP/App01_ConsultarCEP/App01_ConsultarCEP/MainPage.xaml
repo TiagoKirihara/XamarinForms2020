@@ -6,7 +6,7 @@
 
     <StackLayout BackgroundColor="#FFBF00" Padding="30" Spacing="30">
 
-        <Image Source="correios.jpg" x:Name="LOGO" HeightRequest="180"/>
+        <Image Source="correios.jpg" x:Name="LOGO" HeightRequest="50"/>
 
         <Entry Placeholder="Digite o cep..." PlaceholderColor="#FFBF00" BackgroundColor="#FFFFFF" x:Name="CEP"/>
 
